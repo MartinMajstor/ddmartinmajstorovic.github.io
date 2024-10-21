@@ -1,0 +1,22 @@
+  <html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        h1 {text-align: center;}
+        p {text-align: center;}
+        div {
+            width: 700px;
+            margin: 0 auto;
+            text-align: center;
+	    font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Dobar dan</h1>
+<p><img src="https://www.tsrb.hr/wp-content/uploads/2020/07/TŠRB-Zagreb-RCK@2x.jpg" width="700" height="500" ></p>
+<div>Dobar dan, moje ime je Martin Majstorović i dolazim iz Španskog, Zagreb. Imam 14 godina i završio sam Osnovnu školu Špansko Oranice. Upisao sam smjer tehničara za elektroniku u Tehničkoj školi Ruđera Boškovića. Imam jednog starijeg brata. U slobodno vrijeme volim igrat video igre, ići u teretanu i izlazit van. Bavio sam se rukometom 5 godina ali sam prestao jer mi je dosadilo. Trenutno ne treniram nikakav sport u nekom klubu no ponekad izađem van igrat nogomet s prijateljima.</div>
+
+</body>
+</html>
